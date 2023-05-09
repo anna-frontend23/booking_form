@@ -1,6 +1,7 @@
 ### :pencil2: О проекте
 
 Форма бронирования переговорной. 
+
 Создано с помощью [Create React App](https://github.com/facebook/create-react-app), а также [Formik](https://formik.org) и [react-datepicker](https://www.npmjs.com/package/react-datepicker).
 
 :bulb: Чтобы открыть проект в браузере, перейдите по ссылке в разделе About. 
